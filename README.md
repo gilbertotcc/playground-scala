@@ -1,2 +1,3 @@
-# playground-scala
+# Scala Playground
+
 Playground for practicing Scala.
